@@ -1,0 +1,55 @@
+
+#welcome{
+  font-style: italic;
+}
+
+
+p {
+  color: #9270B3;
+  font-size: 200%;
+}
+
+.back1{
+  border: 2px outset blue;
+}
+
+#photo1 {
+  position: relative;
+  border: 3px ridge #8AC001;
+}
+
+#photo2 {
+  position: relative;
+  border: 3px dotted red;
+}
+
+#photo3 {
+  position: relative;
+  border: 4px inset lightblue;
+}
+
+#link1 {
+  font-size: 150%;
+}
+
+.title1 {
+  font-style:Oswald, sans-serif;
+  color: gray;
+  text-decoration: underline;
+}
+
+#Changesize {
+  font-style:Oswald, sans-serif;
+  color: green;
+  font-size: 220%;
+  text-decoration: underline;
+}
+
+#Games {
+  color: #FFFF99;
+}
+
+.Books {
+  font-style: italic;
+  color: white;
+}
